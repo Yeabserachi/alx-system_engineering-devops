@@ -1,1 +1,1 @@
-#!/bin/bash
+My first shell redirection readme
