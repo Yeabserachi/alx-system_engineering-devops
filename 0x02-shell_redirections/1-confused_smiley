@@ -1,4 +1,4 @@
-echo '#!/bin/bash' > 1-confused_smiley
-echo "echo \"\\\"(Ôo)'\"' >> 1-confused_smiley
-i
+#!/bin/bash
+echo "\"(Ôo)'"
+
 
